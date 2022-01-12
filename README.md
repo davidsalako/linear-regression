@@ -1,4 +1,4 @@
-# Cardio Good Fitness Project - Linear Regression Analysis Of A Retail Store That Sells Treadmill Products - By David Salako.
+# Cardio Good Fitness Project - Linear Regression Analysis Of A Retail Store That Sells Treadmill Products. - By David Salako.
 
 ## BACKGROUND:
 
